@@ -1,0 +1,50 @@
+h1 {
+    color: plum;
+    padding-left: 0px;
+    font-size:xx-large;
+}
+h2 {
+    color: plum;
+    font-size:x-large;
+}
+h3 {
+    color: plum; 
+    font-size:medium;
+}
+
+h4 {
+    color: plum;
+    font-size:medium;
+}
+p{
+    color: plum;
+    font-size:small;
+}
+.header{background-color: #f5076a;
+display:flex;
+flex-wrap:wrap;
+align-content: center;
+
+justify-content:space-between;
+}
+.grid img{
+    display:flex;
+    flex-wrap:wrap;
+     align-content: center;
+   border: 2px solid #b022f1;
+border-radius:10px;
+}
+.snapology{
+border-radius: 20px;
+background-color:rgb(213, 218, 218) ;
+width:600px;
+height:700px;
+font-family:sans-serif;
+text-align: center;
+}
+
+
+
+body{background-color: #f5076a;
+margin-top: 30px;
+}
